@@ -1,0 +1,6 @@
+{
+  "name": "The Warren Archives",
+  "description": "The Conjuring Universe official-level cinematic movie experience website. Engage with interactive storylines, investigate the occult museum, explore the Timeline of Evil, browse the demon registry, and view theatrical trailers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
