@@ -87,7 +87,7 @@ https://the-warren-archives.vercel.app/
 
 ## Tech Stack
 
-* React
+* React 
 * TypeScript
 * Vite
 * Framer Motion
